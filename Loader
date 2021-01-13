@@ -1,0 +1,9 @@
+-- CumHaxx Loader by yuhsecurity
+-- CumHaxx Scripts by  ascaxz on github | https://github.com/ascaxz
+if game.PlaceId == 292439477 then -- Phantom Forces
+loadstring(game:HttpGet(""))()
+elseif game.PlaceId == 3233893879 then -- Bad Business
+loadstring(game:HttpGet(""))()
+elseif game.PlaceId == 2377868063 then -- Strucid
+loadstring(game:HttpGet(""))()
+end
